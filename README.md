@@ -111,7 +111,7 @@ My personal portfolio showcasing projects, skills, and engineering journey. It i
 
 ---
 
-## Featured Projects
+<!--## Featured Projects
 
 > Pin your best repos on GitHub and replace placeholders below as projects ship.
 
@@ -200,7 +200,7 @@ CLI tool for basic network reconnaissance and host discovery — a hands-on proj
   <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 </p>
 
----
+----->
 
 ### Portfolio Website *(live)*
 
