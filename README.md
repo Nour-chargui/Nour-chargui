@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+secure+systems+by+design;Learning+DevSecOps+%26+Cloud;Engineering+student+%7C+Future+DevSecOps+Engineer)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nour--portfolio--sepia.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://nour-portfolio-sepia.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-chargui-098870223/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourchargui55@gmail.com)
 
 </div>
 
@@ -233,8 +233,8 @@ Personal engineering portfolio — projects, skills, and contact hub deployed on
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nourchargui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourchargui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nour-chargui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-chargui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -242,9 +242,9 @@ Personal engineering portfolio — projects, skills, and contact hub deployed on
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourchargui/nourchargui/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourchargui/nourchargui/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nourchargui/nourchargui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nour-chargui/Nour-chargui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nour-chargui/Nour-chargui/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Nour-chargui/Nour-chargui/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <details>
@@ -316,7 +316,7 @@ notes: "Edit this block every week to keep your profile fresh."
 ## Visitor Counter
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nourchargui.nourchargui&left_color=0d1117&right_color=58a6ff" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nour-chargui.Nour-chargui&left_color=0d1117&right_color=58a6ff" alt="Visitor Count"/>
 </p>
 
 ---
@@ -326,7 +326,7 @@ notes: "Edit this block every week to keep your profile fresh."
 <p align="center">
   <a href="https://www.linkedin.com/in/nour-chargui-098870223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://nour-portfolio-sepia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/nourchargui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Nour-chargui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
