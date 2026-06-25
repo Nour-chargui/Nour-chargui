@@ -207,7 +207,9 @@ CLI tool for basic network reconnaissance and host discovery — a hands-on proj
 Personal engineering portfolio — projects, skills, and contact hub deployed on Vercel.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nour-chargui/Nour-chargui/main/nour-portfolio.png" height="977" alt="nour-portfolio" alt="Portfolio Website preview" width="720"/>
+  <img src="https://raw.githubusercontent.com/Nour-chargui/Nour-chargui/main/nour-portfolio.png"
+       alt="Portfolio Website preview"
+       width="720"/>
 </p>
 
 <p>
